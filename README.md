@@ -1,3 +1,4 @@
+```
 am_i_bored ? {
   should_i_work ? {
     work_time = true
@@ -15,3 +16,4 @@ am_i_bored ? {
     print("okay then. cya.")
   }
 }
+```
