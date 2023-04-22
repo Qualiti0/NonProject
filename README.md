@@ -15,7 +15,7 @@ am_i_bored ? {
     play_a_game ? {
       print("alright. what game should we play, osu?");
       play_osu ? {
-        print("okay. i'll play osu. cya")
+        print("okay. i'll play some rgs. cya")
       } : {}
     } : {
       print("okay then. cya.")
